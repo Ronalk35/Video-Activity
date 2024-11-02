@@ -18,7 +18,6 @@ Video Activity es una aplicación Android que permite a los usuarios explorar y 
 
 **Api:** Api: https://51822719-2fc7-4d59-ac52-3297a79dd740.mock.pstmn.io/videos
 
-## Video Demo
 
 ## Video Demo
 
