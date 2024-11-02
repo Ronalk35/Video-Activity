@@ -21,5 +21,5 @@ Video Activity es una aplicación Android que permite a los usuarios explorar y 
 
 ## Video Demo
 
-[![Video Demo]([https://onedrive.live.com/?cid=XXXXXXXXXX&id=XXXXXXXXXX](https://cibertecedu-my.sharepoint.com/:v:/g/personal/i201920910_cibertec_edu_pe/EWm0j_4cg7BKmoTayzrYD-MBW28UZKsg2WgazbfByCctAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pPNMgY))
+[![Video Demo](https://onedrive.live.com/?cid=XXXXXXXXXX&id=XXXXXXXXXX](https://cibertecedu-my.sharepoint.com/:v:/g/personal/i201920910_cibertec_edu_pe/EWm0j_4cg7BKmoTayzrYD-MBW28UZKsg2WgazbfByCctAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pPNMgY)
 
